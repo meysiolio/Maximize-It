@@ -1,4 +1,4 @@
-You are given a function ***f(X)=X<sup>2</sup>***. You are also given ***K*** lists. The ***i<sup>th</sup>*** list consists of ***N<sdown>i</sdown>*** elements.
+You are given a function ***f(X)=X<sup>2</sup>***. You are also given ***K*** lists. The ***i<sup>th</sup>*** list consists of ***N<sub>i</sub>*** elements.
 
 You have to pick one element from each list so that the value from the equation below is maximized:
 
