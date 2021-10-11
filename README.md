@@ -2,7 +2,7 @@ You are given a function ***f(X)=X<sup>2</sup>***. You are also given ***K*** li
 
 You have to pick one element from each list so that the value from the equation below is maximized:  
 
-**S = (f(X<sub>1</sub>) + f(X<sub>2</sub>) + ... + f(X<sub>k</sub>)) % M**  
+***S = (f(X<sub>1</sub>) + f(X<sub>2</sub>) + ... + f(X<sub>k</sub>)) % M***  
 
 ***X<sub>i</sub>*** denotes the element picked from the ***i<sup>th</sup>*** list . Find the maximized value ***S<sub>max</sub>*** obtained.  
 
