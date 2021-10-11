@@ -1,4 +1,4 @@
-You are given a function f(X)=X<sup>2</sup>. You are also given  lists. The  list consists of  elements.
+You are given a function ***f(X)=X<sup>2</sup>***. You are also given  lists. The  list consists of  elements.
 
 You have to pick one element from each list so that the value from the equation below is maximized:
 
